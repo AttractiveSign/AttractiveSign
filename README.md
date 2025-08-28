@@ -40,7 +40,7 @@ More project details coming soon. Current highlights:
 ## 📫 Contact & Links
 
 - 📧 Email: [jannis.naeve@haw-hamburg.de](mailto:jannis.naeve@haw-hamburg.de)
-- 🔗 Website: [GitHub Pages Homepage](attractivesign.github.io)
+- 🔗 Website: [GitHub Pages Homepage](https://attractivesign.github.io)
 - 💬 Feel free to open issues or start discussions on my repositories!
 
 ---
