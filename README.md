@@ -29,18 +29,18 @@ More project details coming soon. Current highlights:
 
 - 🏠 **Home Server Project**  
   Self-hosted services including website, Nextcloud, AdGuard, and more  
-  *[Status: in progress]*
+  *[Status: Online, in active Development]*
 
 - 🐧 **Linux Deep-Dive**  
   Personalized Arch Linux setup with HyprlandWM  
-  *[Status: in progress]*
+  *[Status: Done]*
 
 ---
 
 ## 📫 Contact & Links
 
 - 📧 Email: [jannis.naeve@haw-hamburg.de](mailto:jannis.naeve@haw-hamburg.de)
-- 🔗 Website coming soon
+- 🔗 Website: [GitHub Pages Homepage](attractivesign.github.io)
 - 💬 Feel free to open issues or start discussions on my repositories!
 
 ---
