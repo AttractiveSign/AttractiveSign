@@ -35,6 +35,10 @@ More project details coming soon. Current highlights:
   Personalized Arch Linux setup with HyprlandWM  
   *[Status: Done]*
 
+- **Homepage and Portfolio**
+  Personal Homepage and Portfolio/Project Overview hosted on GitHub Pages
+  *[Status: Work in Progress]*
+
 ---
 
 ## 📫 Contact & Links
