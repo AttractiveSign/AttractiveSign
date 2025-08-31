@@ -33,10 +33,11 @@ More project details coming soon. Current highlights:
 
 - 🐧 **Linux Deep-Dive**  
   Personalized Arch Linux setup with HyprlandWM  
-  *[Status: Done]*
+  *[Status: Done/in active Development]* \
+  See the project [here](https://github.com/AttractiveSign/dotfiles)
 
-- **Homepage and Portfolio**
-  Personal Homepage and Portfolio/Project Overview hosted on GitHub Pages
+- **Homepage and Portfolio** \
+  Personal Homepage and Portfolio/Project Overview hosted on GitHub Pages \
   *[Status: Work in Progress]*
 
 ---
