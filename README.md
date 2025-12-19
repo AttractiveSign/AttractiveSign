@@ -35,9 +35,9 @@ More project details coming soon. Current highlights:
   *[Status: Done/in active Development]*
   See the project [here](https://github.com/AttractiveSign/dotfiles)
 
-- **Homepage and Portfolio**
+- 🌐 **Homepage and Portfolio**
   Personal Homepage and Portfolio/Project Overview hosted on GitHub Pages
-  [Status: Work in Progress]*
+  [Status: Work in Progress]
 
 ---
 
