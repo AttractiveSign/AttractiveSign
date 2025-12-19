@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jannis!
 
-I'm a computer science student with a passion for tinkering across diverse projects — from software development to hardware and home automation. In my free time, I enjoy exploring new technologies and building small to medium-sized projects. Currently, I'm working on a home server setup. 🌐🛠️
+I'm a computer science student with a passion for tinkering across diverse projects — from software development to hardware and home automation. In my free time, I enjoy exploring new technologies and building small to medium-sized projects. Currently, I'm working on a Connect4-Bot written in Erlang for a Uni project
 
 ---
 
@@ -10,16 +10,15 @@ I'm a computer science student with a passion for tinkering across diverse proje
 - 💡 Curious about almost everything — my current deep dive is into self-hosting and home servers
 - 🧪 Lifelong learner — through university, personal projects, and community involvement
 - 💬 Currently focused on:
-  - Linux and server infrastructure
-  - Networking technologies
+	- 🐧Linux and server infrastructure
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-- **Languages:** `Bash`, `Java`, `C`
+- **Languages:** `Bash`, `Java`, `C`, `Python`, `HTML`, `Erlang`
 - **Tools:** `Docker`, `Git`, `Linux Shell`
-- **Servers:** `Ubuntu Server`, `Docker virtualization`, `NGINX`
+- **Servers:** `Ubuntu Server`, `Docker virtualization`
 
 ---
 
@@ -33,12 +32,12 @@ More project details coming soon. Current highlights:
 
 - 🐧 **Linux Deep-Dive**  
   Personalized Arch Linux setup with HyprlandWM  
-  *[Status: Done/in active Development]* \
+  *[Status: Done/in active Development]*
   See the project [here](https://github.com/AttractiveSign/dotfiles)
 
-- **Homepage and Portfolio** \
-  Personal Homepage and Portfolio/Project Overview hosted on GitHub Pages \
-  *[Status: Work in Progress]*
+- **Homepage and Portfolio**
+  Personal Homepage and Portfolio/Project Overview hosted on GitHub Pages
+  [Status: Work in Progress]*
 
 ---
 
